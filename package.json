@@ -1,0 +1,14 @@
+{
+  "name": "tcp-listener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/tcp-web-listener/tcp-web-listener"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tcp-web-listener": "^0.0.7"
+  }
+}
